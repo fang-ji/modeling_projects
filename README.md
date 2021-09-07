@@ -1,1 +1,3 @@
-# modeling_projects
+This repository holds two modeling projects that I've done during my PhD study. In these two projects, mathematical models were used to investigate population dynamics in different ecological systems. All the simulations and analyses were done in MATLAB. 
+- [insect_outbreaks](https://github.com/fang-ji/modeling_projects/tree/main/insect_outbreaks) involves investigating the trade-offs between two plant allocation strategies -- overcompensation and allocation to inedible reserves -- and their effects on herbivore population dynamics.
+- [mutualism](https://github.com/fang-ji/modeling_projects/tree/main/mutualism) involves examining the role of random flower-dropping punishment, a rare tactic for maintaining mutualistic interaction between plants and seed-consuming pollinators. 
