@@ -1,1 +1,3 @@
-
+## Background
+Many plants cannot survive without their insect pollinators; understanding which particular mechanisms keep the interactions between plants and pollinators mutualistic is crutial for maintaining biodiversity. In some systems (such as yucca - yucca moth, senita cactus - senita moth), plants benefit from pollination but there are costs through the consumption of seeds by the pollinators, while the insects benefits from seed resources. The costs to the insects is through punishment should the insects not pollinate enough flowers or lay too many eggs. This project examines how and under what ecological conditions random floral abscission can be an effective punishment strategy to limit over-exploitation and maintain mutualism. 
+## Model Schematic 
