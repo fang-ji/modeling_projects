@@ -3,7 +3,7 @@ This project uses a series of discrete-time models to show that plants' allocati
 
 ## Model Schematic 
 <img width="800" alt="diagram (1)" src="https://user-images.githubusercontent.com/24704249/132713294-9f1e5882-b1c9-4d6d-a364-a6656f9280df.png">
-The model tracks seasonal progression of aboveground and belowground plant biomass, as well as insect population density. As shown in the schematic, plants experience spring growth, herbivory by adult insects, compensatory regrowth, herbivory by juvenile insects and allocation of energy back to belowground tissues. Adult insects emerge and feed on aboveground biomass, then lay eggs and die. Juvenile insects hatch, start another round of herbivory, then enter pupal stage to overwinter.
+The model tracks seasonal progression of aboveground (A) and belowground (B) plant biomass, as well as insect population density (H). As shown in the schematic, plants experience spring growth, herbivory by adult insects, compensatory regrowth, herbivory by juvenile insects and allocation of energy back to belowground tissues. Adult insects emerge and feed on aboveground biomass, then lay eggs and die. Juvenile insects hatch, start another round of herbivory, then enter pupal stage to overwinter.
 
 ## Key Results
 ### Bifurcation Diagram
